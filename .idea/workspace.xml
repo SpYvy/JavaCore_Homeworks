@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c94ad23-dd25-494d-8592-51d5d14a38f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework1/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework1/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework1/TeamMembers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework2/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework2/MyArraySizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,13 +34,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/GIGABYTE-PC/IdeaProjects/java_core"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaCore_Homeworks\src\homeworks\homework1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework2.Main" />
+      <module name="JavaCore_Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
