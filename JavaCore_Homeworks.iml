@@ -10,5 +10,8 @@
     <orderEntry type="library" name="okhttp-4.10.0" level="project" />
     <orderEntry type="library" name="okio-jvm-3.2.0" level="project" />
     <orderEntry type="library" name="kotlin-stdlib-1.7.10" level="project" />
+    <orderEntry type="library" name="jackson-core-2.13.4" level="project" />
+    <orderEntry type="library" name="jackson-databind-2.13.4" level="project" />
+    <orderEntry type="library" name="jackson-annotations-2.13.4" level="project" />
   </component>
 </module>
